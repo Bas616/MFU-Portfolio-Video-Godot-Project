@@ -4,7 +4,7 @@
 
 This repository contains the complete and open-source Godot Engine project files for my 3-minute self-introduction video, created for my application to Mae Fah Luang University's (MFU) "Digital Technology for Business Innovation" program.
 
-**[▶️ Watch the Final Video on YouTube](ลิงก์ YouTube Public ของนาย)**
+**[▶️ Watch the Final Video on YouTube](https://youtu.be/XHGdUT9SWkQ?si=ZVP1oxSx4fZCkT90)**
 
 ---
 
